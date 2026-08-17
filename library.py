@@ -12,3 +12,5 @@ b = 6
 sum = a+b
 print("sum", sum)
 
+def add (n1,n2):
+    return n1+n2
